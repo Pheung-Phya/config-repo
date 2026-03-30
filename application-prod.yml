@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: e-commerce
+server:
+  port: 6666
